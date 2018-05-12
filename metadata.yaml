@@ -1,0 +1,35 @@
+_repo: The-Blind-BrotherA-Story-of-the-Pennsylvania-Coal-Mines_45232
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45232-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Greene, Homer
+    birthdate: 1853
+    deathdate: 1940
+    gutenberg_agent_id: '3540'
+    url: http://www.gutenberg.org/2009/agents/3540
+description: ''
+gutenberg_issued: '2014-03-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45232'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Miners -- Juvenile fiction'
+- !lcsh 'Blindness -- Juvenile fiction'
+- !lcsh 'Brothers -- Juvenile fiction'
+- !lcsh 'Trials -- Juvenile fiction'
+- !lcsh 'Pennsylvania -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Mine accidents -- Juvenile fiction'
+- !lcsh 'Coal mines and mining -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Physicians -- Juvenile fiction'
+title: 'The Blind Brother: A Story of the Pennsylvania Coal Mines'
+url: http://www.gutenberg.org/ebooks/45232
